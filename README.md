@@ -1,5 +1,5 @@
-## ¡Hola!  👋💛💜💗
-Soy Carolina de Colombia; desarrolladora Full Stack con orientación al Back-end, siempre dispuesta a trabajar en equipo, proactiva, con mente abierta al aprendizaje y retroalimentación continuos; con competencias para desarrollar diferentes proyectos web ya que trabajé en el desarrollo e implementación de varios proyectos tanto de forma individual como grupal.
+## ¡Hola!  👋💛💜💗 soy Carolina de Colombia
+Desarrolladora Full Stack con orientación al Back-end, siempre dispuesta a trabajar en equipo, proactiva, con mente abierta al aprendizaje y retroalimentación continuos; con competencias para desarrollar diferentes proyectos web ya que trabajé en el desarrollo e implementación de varios proyectos tanto de forma individual como grupal.
 
 Me apasiona la tecnología y enfrentarme a nuevos desafíos ¿quieres saber más de mi? 🤗 ¡contáctame!
 
