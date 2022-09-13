@@ -14,6 +14,8 @@ Proyecto grupal, para el desarrollo de este estuve en el equipo back-end princip
 🔸 El gimnasio tiene un usuario administrador con permisos para eliminar, suspender o habilitar usuarios, crear, editar o eliminar actividades, turnos, membresías y entrenadores. <br />
 
 ![image](https://user-images.githubusercontent.com/90877760/190002141-7a0e193a-3001-41f1-99c9-5643d5254b52.png)
+<br />
+#### Link al deploy del proyecto: https://hfitness.vercel.app/Home
 
 #### - PI VIDEOJUEGOS: ( Redux.js · JavaScript · Node.js · Sequelize.js · Express.js · React.js · PostgreSQL )
 Desarrollo de una SPA, consiste en una página que muestra información sobre videojuegos con su respectivo paginado; permite buscar por nombre, efectuar filtros, ordenamientos, ver el detalle de cada videojuego, crear nuevos en la base de datos a través de un formulario controlado y eliminarlos si se requiere.
@@ -21,7 +23,8 @@ Desarrollo de una SPA, consiste en una página que muestra información sobre vi
 
 ![image](https://user-images.githubusercontent.com/90877760/190005419-a16cc880-103c-482a-ba73-0e4fbe538f07.png)
 
-
+<br />
+#### Link al deploy del proyecto: https://front-videogames-woad.vercel.app/home
 
 <!--
 **CAROLMEJIA/CAROLMEJIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
