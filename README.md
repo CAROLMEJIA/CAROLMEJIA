@@ -4,6 +4,8 @@ Soy Carolina de Colombia; desarrolladora Full Stack con orientación al Back-end
 Me apasiona la tecnología y enfrentarme a nuevos desafíos ¿quieres saber más de mi? 🤗 ¡contáctame!
 
 ## ⚡ Mis habilidades Técnicas.<br />
+![image](https://user-images.githubusercontent.com/90877760/190009659-89a69142-895f-4321-83d2-782ff2b5e127.png)
+![image](https://user-images.githubusercontent.com/90877760/190009703-ba515ecd-2431-480f-a4da-9c8544fbae62.png)
 
 
 ## ⚡ Mis proyectos <br />
