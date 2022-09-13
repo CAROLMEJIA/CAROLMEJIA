@@ -3,7 +3,7 @@ Desarrolladora Full Stack con orientación al Back-end, siempre dispuesta a trab
 
 Me apasiona la tecnología y enfrentarme a nuevos desafíos ¿quieres saber más de mi? 🤗 ¡contáctame!
 
-## ⚡ Mis habilidades Técnicas.<br />
+## ⚡ Mis habilidades Técnicas <br />
 ![image](https://user-images.githubusercontent.com/90877760/190029736-cb3e6933-0349-43e0-bd98-e687fe02fbac.png)
 ![image](https://user-images.githubusercontent.com/90877760/190009703-ba515ecd-2431-480f-a4da-9c8544fbae62.png)
 ![image](https://user-images.githubusercontent.com/90877760/190009659-89a69142-895f-4321-83d2-782ff2b5e127.png)
