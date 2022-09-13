@@ -24,7 +24,6 @@ Desarrollo de una SPA, consiste en una página que muestra información sobre vi
 
 
 ![image](https://user-images.githubusercontent.com/90877760/190005419-a16cc880-103c-482a-ba73-0e4fbe538f07.png)
-
 <br />
 #### Link al deploy del proyecto: https://front-videogames-woad.vercel.app/home
 
